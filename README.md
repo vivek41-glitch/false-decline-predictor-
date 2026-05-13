@@ -15,7 +15,7 @@ A second AI layer that sits behind standard fraud detection and asks: *"Wait —
 Every transaction is compared against the customer's own behavioral profile — not global averages. A traveler spending abroad, a customer making a large purchase, someone shopping at 2am — these look suspicious globally but may be completely normal for that specific customer.
 
 ## Live Demo
-[Deploy on Streamlit Cloud — link here]
+[Demo Video](https://youtu.be/h3lp6_-Uhmk?si=HhDBmxg_MtnEf4FK)
 
 ## Architecture
 Real Transaction Stream
