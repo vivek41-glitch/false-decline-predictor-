@@ -2,7 +2,6 @@ venv/
 .env
 data/creditcard.csv
 __pycache__/
-*.pkl
 .DS_Store
 data/shap_plots/
 data/perf_plots/
