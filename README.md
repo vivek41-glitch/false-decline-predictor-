@@ -105,5 +105,3 @@ This project directly addresses one of the most expensive unsolved problems in f
 ---
 
 Built by Vivek Dubey — B.E. CSE, GTU
-Save it. Then run:
-streamlit run app.py
